@@ -141,7 +141,16 @@
     border-top-right-radius: 0;
   }
 
+  .flex-heading {
+    font-size: 24px;
+  }
+
+  .icon {
+    width: 42px;
+  }
+
   .flex-text {
+    font-size: 14px;
     margin-bottom: 32px;
   }
 
